@@ -1,0 +1,947 @@
+[0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+
+1.1.19
+
+TypeScript version used by Compodoc : 4.5.5
+
+TypeScript version of current project : 4.6.2
+
+Node.js version : v18.12.1
+
+Operating system : macOS
+
+[15:07:52] No configuration file found, switching to CLI flags.
+[15:07:52] Using tsconfig file : /Users/nickt/Desktop/storybook-angular/taskbox/tsconfig.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.editorconfig
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.gitignore
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/LICENSE
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/README.md
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.browserslistrc
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/angular.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/build-storybook.log
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/documentation.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/jest.config.js
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/package-lock.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/package.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/tsconfig.app.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/tsconfig.spec.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/tsconfig.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.storybook/main.js
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.storybook/preview.js
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.storybook/tsconfig.json
+[15:07:52] Ignoring       : /Users/nickt/Desktop/storybook-angular/taskbox/.storybook/typings.d.ts
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/jest-config/setup.ts
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/favicon.ico
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/main.ts
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/polyfills.ts
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/index.html
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/styles.css
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/225.adf1b44b.iframe.bundle.js
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/239.43bc22d7.iframe.bundle.js
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/239.43bc22d7.iframe.bundle.js.LICENSE.txt
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/291.4044512f.iframe.bundle.js
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/291.4044512f.iframe.bundle.js.LICENSE.txt
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/256.ffb44184d847dd379627.manager.bundle.js
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/345.b8f4061f.iframe.bundle.js
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/366.f7514a71.iframe.bundle.js
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/366.f7514a71.iframe.bundle.js.LICENSE.txt
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/295.d529687a131da6bdd8ab.manager.bundle.js
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/39.2ed10874.iframe.bundle.js
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/39.2ed10874.iframe.bundle.js.LICENSE.txt
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/468.1a87aacfd4acebc2a2bc.manager.bundle.js.LICENSE.txt
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/471.8d9110a3.iframe.bundle.js
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/471.8d9110a3.iframe.bundle.js.LICENSE.txt
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/468.1a87aacfd4acebc2a2bc.manager.bundle.js
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/528.424a7bd4a9e142c5a41e.manager.bundle.js
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/528.424a7bd4a9e142c5a41e.manager.bundle.js.LICENSE.txt
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/551.0813560ce260eec40438.manager.bundle.js
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/565.c9971965.iframe.bundle.js
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/565.c9971965.iframe.bundle.js.LICENSE.txt
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/579.dfcbefdb.iframe.bundle.js
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/579.dfcbefdb.iframe.bundle.js.LICENSE.txt
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/579.dfcbefdb.iframe.bundle.js.map
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/675.026c885b9c746c5e7254.manager.bundle.js
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/675.026c885b9c746c5e7254.manager.bundle.js.LICENSE.txt
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/747.2e592bfe.iframe.bundle.js
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/945.bade092d797668cd2db0.manager.bundle.js
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/945.bade092d797668cd2db0.manager.bundle.js.LICENSE.txt
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/974.6a840654bcec2c721d4c.manager.bundle.js
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/996.66e30629.iframe.bundle.js
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/favicon.ico
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/iframe.html
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/index.html
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/main.95a40376648419cb128a.manager.bundle.js
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/main.af123c5a.iframe.bundle.js
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/main.css
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/percolate.eot
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/percolate.svg
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/percolate.ttf
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/percolate.woff
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/project.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/runtime~main.45a6c5a6c90a7c85c3cf.manager.bundle.js
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/runtime~main.b5c9bde3.iframe.bundle.js
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/jest-config/__mocks__/fileMock.js
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/jest-config/__mocks__/globalMocks.ts
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/jest-config/__mocks__/styleMock.js
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/app/app.component.css
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/app/app.component.html
+[15:07:52] Ignoring       : /Users/nickt/Desktop/storybook-angular/taskbox/src/app/app.component.spec.ts
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/app/app.component.ts
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/app/app.module.ts
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/assets/.gitkeep
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/environments/environment.prod.ts
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/environments/environment.ts
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/stories/Button.stories.ts
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/stories/Header.stories.ts
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/stories/Introduction.stories.mdx
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/stories/Page.stories.ts
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/stories/User.ts
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/stories/button.component.ts
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/stories/button.css
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/stories/header.component.ts
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/stories/header.css
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/stories/page.component.ts
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/stories/page.css
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/app/components/inbox-screen.component.ts
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/app/components/pure-inbox-screen.component.ts
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/app/components/pure-inbox-screen.stories.ts
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/app/components/pure-task-list.component.ts
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/app/components/task-list.component.ts
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/app/components/task.component.ts
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/app/components/pure-task-list.stories.ts
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/app/components/tasks.stories.ts
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/app/components/task.module.ts
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/app/models/tasks.models.ts
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/app/state/task.state.ts
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/assets/font/OpenSans-Light-webfont.eot
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/assets/font/OpenSans-Light-webfont.svg
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/assets/font/OpenSans-Light-webfont.ttf
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/assets/font/OpenSans-Regular-webfont.svg
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/assets/font/OpenSans-Light-webfont.woff
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/assets/font/OpenSans-Regular-webfont.eot
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/assets/font/OpenSans-Regular-webfont.woff
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/assets/icon/percolate.eot
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/assets/icon/percolate.svg
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/assets/icon/percolate.woff
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/assets/icon/percolate.ttf
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/assets/font/OpenSans-Regular-webfont.ttf
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/stories/assets/colors.svg
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/stories/assets/code-brackets.svg
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/stories/assets/comments.svg
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/stories/assets/direction.svg
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/stories/assets/plugin.svg
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/stories/assets/stackalt.svg
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/assets/font/OpenSans-Light-webfont.eot
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/assets/font/OpenSans-Light-webfont.svg
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/assets/font/OpenSans-Light-webfont.ttf
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/assets/font/OpenSans-Light-webfont.woff
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/assets/font/OpenSans-Regular-webfont.eot
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/assets/font/OpenSans-Regular-webfont.svg
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/assets/font/OpenSans-Regular-webfont.ttf
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/assets/font/OpenSans-Regular-webfont.woff
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/stories/assets/flow.svg
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/src/stories/assets/repo.svg
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/assets/icon/percolate.eot
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/assets/icon/percolate.svg
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/assets/icon/percolate.ttf
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/storybook-static/assets/icon/percolate.woff
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/0090ff69135c32f6cf01a32c6c25e770.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/01e0c2d12b5f5155062b48886b31a14d.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/02f77179ddd698660d4518e3f1466011.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/04cb2520dcc303295faa1c37b872bf03.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/05448bdf6e0ec2dcccdccbc0758e7b48.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/06acc0fd2279eacb4748c3c29f84f0aa.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/058e4636eef4562cddb18bca32f94572.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/07807776541e0bb27066aa8ad051fc56.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/0947fa0bf01b551afea18010ff97792c.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/095a0baedf8c8cfb63305be7e033dad0.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/0835569ecd08471f7509f169a12800ed.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/0a859d9e2f68ad7da0b21d53df890c62.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/0b6cfdc4d7534d50cb7eb801374f4e16.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/0b7b1f49b77fb8fda3851949269a5145.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/0d24c8805c6b8cb21773dc5e694a3a14.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/0b8cbd65db095d623b6dadcdd8c391d7.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/1090565d0c1a9616279cf2331a0da0a0.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/10ca512862cc2b2bc97aeff44295d056.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/10e745c63e328b1200ed7001040a3df8.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/104ea5ef6a8206c62a1a9aceb9e96fda.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/123d8129373716cefa27f250cd4f6413.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/114c252f9647f808d7cd5a08b9fe5cd9.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/1190867130c0ced393e5ad84157873fc.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/13529d63cd3fc532d8312b1bb352445e.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/14f4146b00371771c1d69470b462f573.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/138d9fc211a551bc09eb10fab0ab886f.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/15169cc6955faf5d4eb07040cb37c7df.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/15422870e5afad2a403df006139d7a42.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/15426a75cf07023d94faa3ba78a35966.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/15ed235742f0bc7257c29ac081cdb610.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/16023ab5a0683ff0415aae4ba9f4673f.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/17c1ec2c24dcc2eba445f2683b6d40b3.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/181113d7c408f1e8c954e0f2299b9558.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/1bd2620473365955a0492e2918508df6.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/1a71aa1b623b17e0c4e7ec10f84c20aa.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/1dbb61b0c2f2c71d1f20b12ed2d6c9b5.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/1f9bf44946564af4938f19ba1ea95f4a.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/1fc777a304ca71b703c6eb2ea0746925.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/1f75a00ca02310eb2ed1c66ddbcaa97b.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/2306717243a35b89a747db088c9d6f5c.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/23cd2dbbd167ac4e47965f3af69f7eff.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/2489108257b7aca21dd82efc302dc377.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/23e5009a197ecc6e42d57b4468959a85.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/27194531dc4d7adb674245e05bcf0b45.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/26b26d4be493dec66ae05669babbebea.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/27b5543c6971cce2810d7a4fb3136ef8.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/288df76cbbd833912d70a3a5414d087a.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/27d4ba3651a041c855c640ecdfaef1cc.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/27841fa9b905d34124aef61afcc6e623.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/28a33f282fbc8e7830a6b6c3fb837a5f.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/29daa6ccb530246ea6d97de1e1f1907e.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/2ba261d4c346e300bd09463cae6ef82f.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/2c4c565880a7daaed473e352718742f2.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/2f2a42253897abaeb3a559d86ca17fbe.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/2f86837b33d109843f60b6ea871ee80c.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/307745ff63a70c3c9ce89b7d3b39f9ac.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/313eb8eefebb283a58da68d25131a984.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/3276d8d9b693d465697d6652d7efc11d.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/331bd5c091f7beb1ccc4c67581f2ab49.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/3635f2fd18d875f3de27f9074a63e2bf.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/37027a53bf60afd3d39309f514716e4c.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/378e554b1eaf15435ac931f8b4a0ffbd.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/38bc04ab03f00918cec535a3574493cf.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/3a6597f6ec74f77d90134fb3326f8531.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/3aad7d69a3b2deb5edfa0d6891d80e35.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/3a28e620400444210d4e7e4ecc9ef3d8.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/3ade7940085c3e6d8ea652b077b2b801.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/3bcdf1316e1befeaf6cdac4a74ab5414.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/3b93a3215631c394f75994681ed50493.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/3ced0c34118482d9c8a60aab76a38f1c.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/3e0d1d1b39af86c185a8c6639ec9594c.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/3f8f9c283a8982a38903dbcdae51189b.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/40271f8fdf4e1d7303335348ab7fe431.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/420fb2e062bdf1775f331acc2eda2c3d.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/42db973abbe5128cb5dfb455dea72f09.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/42dcae99eb1a810b0e0aa28c97cc4692.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/446112f5c32d0a733c2a5bafad1cfbf7.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/446328bff38901cd9af45fcb71ce7c20.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/4729346b5d0dc48ff51e08068f66ead0.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/4772a0fa6dcfdc1d94257f3aec1b5d28.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/48701a61b90088c88e75cf94b781ff81.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/478449666e5318da8348008e50880b80.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/48c7083d05a43730ef2abff29cd425c3.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/4956d9dc41c5dd46034bbd68b80c470d.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/49e87a1688c0d313beb2f007b0bf78d7.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/4b5c01ebffebb4ee66010d49201c6b68.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/4c811b75005d0064239de27aedb660cc.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/4d2ce97fa1c3c96bd193c43a13f5eff1.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/4e962bda2443bdeffcec3954e780248b.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/4f0d7a54eb91fef5eede90d2679c2057.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/4f4943aa7d089577f9efffa1b5144135.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/4f86462914f41eeedd5059b30cb6f812.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/4fd8643abe349fdc7c2a5ae8e845a7cc.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/51e00e3a045b725540645515cb1bb4b5.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/52d309f5e38049cb78558ff47c03cc7d.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/533f73aa622a0950b7bd23b0d20cbfc0.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/5288692d58dae2f6467e0c68323747bd.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/55a4d95270bc0932f02b7af476d5d5b3.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/55b1146b6b5c7def0d009b57d269d196.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/567eb3926863439638488ce16ed6e8cc.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/568c4d2207b53646edc9bd9f672a9054.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/591c9352a5d34a1efd116208fbc417fb.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/5a29852e3514eeb5353f32b2b03fde1e.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/5bbd39ad380878c06ad142bfc06341cb.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/57fa7d852ac4f3a5ae410511a73186bf.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/5e32d3c1058bd284a9c0e2d0554fabbf.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/5e435e819e8e867f2db1e36454c09688.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/606aa2c5952c152cbc79c816bf6a6d6b.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/60c269eae0cbbc166563310b83510446.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/616682bf7042899b8a5d34d0cc056223.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/629cb4bc94bbd39884ba15412b9c6573.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/635a418406cf8c633e8ebe0e63177fff.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/6542f2edb8b26904edb41cfe1b18fa16.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/65528d673c278416141eeb0e86864680.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/665dbd8edfffba57bd3301f2b654b6ba.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/667283ae3169f8e529cec9c11d459313.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/66aa610ba87f3e6b4779f84711b9d248.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/66e6603a74d6a552fe090f69b67f44f1.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/68bf8f6c7478a02550ae68341dc96a72.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/6f79220b95e40adf3cc344b97a1f580d.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/6f9b6afd6c2d5d8ee4658e750d449efe.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/704308a21ce6f3409bd9cbcf48b049da.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/7422d7ad06200077aaa2728d6cd57ad3.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/765b39849fb93479df5099e5d0f74a0a.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/76edab5c789ad0fbcd4545486428af6c.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/77eaf83bf94f2befafa0b6dc79ddfd82.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/788b2f22ceb206a419a7fa2b3d381587.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/78be59de2f0017af81390bf8e1e2f955.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/7ac68e442b7f5c3a689160b1342691c4.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/78d71eaff4dc78e73d141da8f6771b01.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/7ca7e77aab9699a2b1260daf697cf2d2.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/7cae036104629d395f1d843ec4f253ee.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/7ed8df8980c52b61ece0baba959d6cbc.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/7fc5cf78b2d87d7afd8c2bdc7194bce1.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/809b5f5df9342370eba70399483db1bb.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/7ff7335d791a7415c5543951afea4e6b.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/82ed13ce0d03b33d2a362614e4a444a8.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/8244b8dca9d5a01aeea5d50b8ae1435c.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/82b742405ef8d604b2c00c8074bd653e.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/830ca3b2e5073ee2cb7262e88e23d884.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/83497cea52665c339220bb804b0e6faa.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/850b5dc5e16c351198ed0426807ced73.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/86e72093fbc2f5a74bd50fb3435ee0f1.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/87261cc6c3cff61b8212b863368cdfe9.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/875f0ec7f31ea2e23c9d963b2d2431e7.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/88204b406992320076eaf75609747b02.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/892b782ca34586e650f7095a3bead0f1.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/8954d58e5dc55fa53d31142bbc11dc8d.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/8987cd58b2aa1087a89fb8c2e831580d.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/89f824c13c001c0ace3fb56ec3aa28e7.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/8abab2ce3a46d4a1226d73fde1d36341.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/8c4064c6023e77da82dc328103e466df.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/8cbd13dddd40a77127e3526c3cfaab1d.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/8d1c2130bcea6640f88c650b0c6cd41f.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/8ecb54c9a98a8ad4fe70529910160423.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/8edb394bda5f9acabd88b40e55e8ded4.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/8f1c391ce46f0773dc0c58b5768ed3d0.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/8f585f6e096f648b5ffe7ee41b65b3a9.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/8fd65b28d8ce13d81a249ad265d41f84.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/9549c98720a9ec6bbb230c5275590556.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/97f0d3f34dd99dacd7507482f7b1c610.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/98b6751e6f8d4de2972d1706022af575.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/994cf68927b5eeb1eb5ec3271e2e32d9.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/9981fac0b19387ef74fef55027387906.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/99bc0a33f0f8f8f650c2541faf6d8e2a.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/9a2b3b9163211a93a53339be9c6012eb.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/9cede07d5ad7ba3222e49da95d09483c.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/9bd63864fb1b4a3d4e1c176aa8cabe12.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/9d803ecce01c307a6e0ea67b87d9cc9e.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/9e84069422ca7d39d92323b872a6826e.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/9e86c5548942592be2df55d7832c644b.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/9e929dfb952ba8f9b19d42d41c1f69ca.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/a0c13f4de237e51b8dbef546b4ad9616.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/a10b86ce411ca379c46b9426bffcc23a.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/a1910b80992204fec34942456bad17cc.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/a238b7922905b1109ad3919d1c177c3f.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/a54170a05fa42ab29c39b7f235e18d53.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/a34f02ee3abe03eb5c646bfe4f3807f3.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/a5619d667754db4fe29e3cef7e972bf9.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/a6508c01482f5faa2f7c26cb7b97b3fc.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/a66299969e71b802b6658f4ba6de514e.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/a6ea0abd4b93dc737f30135a3c929f2b.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/a7c3460fa2ebda669863af966193198f.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/a924ab95dab3774e896b133e04637fb9.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/a86480c778e75c63461907f9cced5746.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/a98f7d8dd488710ca8e1248824cb4ea5.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/aa490d182dadc853e46d1aff73b504df.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/aaa2de09e80ecece7c5b220e8cb95ab9.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/ac31c121dc01efc9819debd1f358c07d.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/ad029c94e0a932ca007ac3a727d7475a.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/b0e3c2e88b79c989220161ecce9e6543.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/b5c5202823f214e8b3b7717100d747bf.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/b6d403f90fe9dfdc0e2e2066ce257d19.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/b76e48c21dd31d9c0beec0c2c3df5cb3.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/b8ed9fff1906045d64e37fc5004ac7b0.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/ba98e3db9b20b5edb2914588e6742f4e.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/bd8b369f217abd005f2b7eb496642176.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/be10dee5a133986a8487bea678a0d50c.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/c0c9a1c6c1f69f8509b4431c1b4b68f8.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/c22bdde7c76663d31ce7ff08bdbcf511.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/c3282f8bf7c0a5df4f0e975898544077.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/c3a214014eda9df9c634a6b71a37b4af.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/c463f3623558feab2c3952714e4c82b3.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/c793761244f255ac24a47453323adf7d.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/c98b51071c169dd372ae0a9c9dcc28a3.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/c9a3acd3a94718df9fbcc4facfd94b3c.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/cbb6ef8037b19f759d35151ed7d90572.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/cc11fb6cbb392149a3591d76df3be133.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/cc16e02309a8746945ea77e6d9be5019.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/cc5f5192eb95b4d6c3f20944430d1ea0.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/cc88e94011a7beb5bd7f088abc0ee84f.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/cdb2cf9b5bab80b809ac8b4cca26c926.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/cece768e738fef371d4642042e624fa7.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/cffbc8d58c89722d81ca0ee6a3129b20.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/d030d3f38409cbf8a51b0ad71989f8d2.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/d19eb4a234ae18c69d87d10faa28e439.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/d2f54c0f1fd06880775c0e1678b3081a.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/d352ef515e7d0e66309012f3d525f499.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/d3718c3692c6d2090b2e3161f98aad74.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/d3787abf0314df19385e0e550f7b341c.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/d405373129a11e8a9caa24d0617e01c0.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/d52a606af78303cab232f0aaa6bd902f.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/d62642aa07cca50b153b4c5af515c341.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/d9e266438b67d7b073915ef1d08f3e1d.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/da6076645c2ef93fb84ef2a96042e2bf.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/dbbf05fc64c3391a78a8b7fc6cd067c3.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/dc4afc57592dad57abd7189ebc192c76.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/dd418f9998847146a0b271be4fa21ab0.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/dd8dce317b77d7a665bd4592997ec400.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/dea06136ba9660c0f2c08a7efeeff3f1.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/df1decb0c98d6af3b35b00905fd00de1.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/dfc23fabb55feb07d395c81057456911.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/e1a00f21b83a7faf11e51538b6bbddea.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/e524774a36976b8855b1565b78a433eb.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/e6ae03c8fec398ea8a7f47040e8ca119.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/ea53db5ba363ed9db30a792062f488aa.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/eca547f5ca06ec3137e00a51919e54a9.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/ecbd0a8ed5cf00c973ec0808beea291d.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/ecefb1d10a47fd494d565a7dbc9f82df.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/f2de8439c75c5ad0bc1dc4ce7bb90ee2.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/f06dbea5bf55bc846eb533b6cac11334.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/f35056e6de07366e3e151617d0c70b8a.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/f385e45c24e8cc5ea00147a56fe6f830.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/f3afed3b884a17bd72da8bd0789e996e.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/ffc59b3aaff6d84e252ae8003e123cd8.json
+[15:07:52] Including      : /Users/nickt/Desktop/storybook-angular/taskbox/.angular/cache/13.3.7/babel-webpack/ff93a4f0f40142e4d2a8ae0b1df35e85.json
+[15:07:52] Searching package.json file
+[15:07:52] package.json file found
+[15:07:52] Processing package.json dependencies
+[15:07:52] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
+[15:07:52] README.md file found
+[15:07:52] Error during /Users/nickt/Desktop/storybook-angular/taskbox/CHANGELOG read
+[15:07:52] Continuing without CHANGELOG.md file
+[15:07:52] Error during /Users/nickt/Desktop/storybook-angular/taskbox/CONTRIBUTING read
+[15:07:52] Continuing without CONTRIBUTING.md file
+[15:07:52] LICENSE.md file found
+[15:07:52] Error during /Users/nickt/Desktop/storybook-angular/taskbox/TODO read
+[15:07:52] Continuing without TODO.md file
+[15:07:52] Get dependencies data
+[15:07:54] parsing        : /Users/nickt/Desktop/storybook-angular/taskbox/jest-config/setup.ts
+[15:07:54] parsing        : /Users/nickt/Desktop/storybook-angular/taskbox/src/main.ts
+[15:07:54] parsing        : /Users/nickt/Desktop/storybook-angular/taskbox/src/polyfills.ts
+[15:07:54] parsing        : /Users/nickt/Desktop/storybook-angular/taskbox/jest-config/__mocks__/globalMocks.ts
+[15:07:54] parsing        : /Users/nickt/Desktop/storybook-angular/taskbox/src/app/app.component.ts
+[15:07:54] found          : AppComponent
+[15:07:54] parsing        : /Users/nickt/Desktop/storybook-angular/taskbox/src/app/app.module.ts
+[15:07:54] found          : AppModule
+[15:07:54]                : - imports:
+[15:07:54]                : 	- BrowserModule
+[15:07:54]                : 	- TaskModule
+[15:07:54]                : 	- NgxsModule
+[15:07:54]                : 	- NgxsReduxDevtoolsPluginModule
+[15:07:54]                : 	- NgxsLoggerPluginModule
+[15:07:54]                : - declarations:
+[15:07:54]                : 	- AppComponent
+[15:07:54]                : 	- InboxScreenComponent
+[15:07:54]                : 	- PureInboxScreenComponent
+[15:07:54]                : - bootstrap:
+[15:07:54]                : 	- AppComponent
+[15:07:54] parsing        : /Users/nickt/Desktop/storybook-angular/taskbox/src/environments/environment.prod.ts
+[15:07:54] found          : environment
+[15:07:54] parsing        : /Users/nickt/Desktop/storybook-angular/taskbox/src/environments/environment.ts
+[15:07:54] found          : environment
+[15:07:54] parsing        : /Users/nickt/Desktop/storybook-angular/taskbox/src/stories/Button.stories.ts
+[15:07:54] found          : Template
+[15:07:54] found          : Primary
+[15:07:54] found          : Secondary
+[15:07:54] found          : Large
+[15:07:54] found          : Small
+[15:07:54] parsing        : /Users/nickt/Desktop/storybook-angular/taskbox/src/stories/Header.stories.ts
+[15:07:54] found          : Template
+[15:07:54] found          : LoggedIn
+[15:07:54] found          : LoggedOut
+[15:07:54] parsing        : /Users/nickt/Desktop/storybook-angular/taskbox/src/stories/Page.stories.ts
+[15:07:54] found          : Template
+[15:07:54] found          : LoggedOut
+[15:07:54] found          : LoggedIn
+[15:07:54] parsing        : /Users/nickt/Desktop/storybook-angular/taskbox/src/stories/User.ts
+[15:07:54] found          : User
+[15:07:54] parsing        : /Users/nickt/Desktop/storybook-angular/taskbox/src/stories/button.component.ts
+[15:07:54] found          : ButtonComponent
+[15:07:54] parsing        : /Users/nickt/Desktop/storybook-angular/taskbox/src/stories/header.component.ts
+[15:07:54] found          : HeaderComponent
+[15:07:54] parsing        : /Users/nickt/Desktop/storybook-angular/taskbox/src/stories/page.component.ts
+[15:07:54] found          : PageComponent
+[15:07:54] parsing        : /Users/nickt/Desktop/storybook-angular/taskbox/src/app/components/inbox-screen.component.ts
+[15:07:54] found          : InboxScreenComponent
+[15:07:54] parsing        : /Users/nickt/Desktop/storybook-angular/taskbox/src/app/components/pure-inbox-screen.component.ts
+[15:07:54] found          : PureInboxScreenComponent
+[15:07:54] parsing        : /Users/nickt/Desktop/storybook-angular/taskbox/src/app/components/pure-inbox-screen.stories.ts
+[15:07:54] found          : Template
+[15:07:54] found          : Default
+[15:07:54] found          : Error
+[15:07:54] found          : WithInteractions
+[15:07:54] parsing        : /Users/nickt/Desktop/storybook-angular/taskbox/src/app/components/pure-task-list.component.ts
+[15:07:54] found          : PureTaskListComponent
+[15:07:54] parsing        : /Users/nickt/Desktop/storybook-angular/taskbox/src/app/components/task-list.component.ts
+[15:07:54] found          : TaskListComponent
+[15:07:54] parsing        : /Users/nickt/Desktop/storybook-angular/taskbox/src/app/components/task.component.ts
+[15:07:54] found          : TaskComponent
+[15:07:54] parsing        : /Users/nickt/Desktop/storybook-angular/taskbox/src/app/components/pure-task-list.stories.ts
+[15:07:54] found          : Template
+[15:07:54] found          : Default
+[15:07:54] found          : WithPinnedTasks
+[15:07:54] found          : Loading
+[15:07:54] found          : Empty
+[15:07:54] parsing        : /Users/nickt/Desktop/storybook-angular/taskbox/src/app/components/tasks.stories.ts
+[15:07:54] found          : actionsData
+[15:07:54] found          : Template
+[15:07:54] found          : Default
+[15:07:54] found          : Pinned
+[15:07:54] found          : Archived
+[15:07:54] parsing        : /Users/nickt/Desktop/storybook-angular/taskbox/src/app/components/task.module.ts
+[15:07:54] found          : TaskModule
+[15:07:54]                : - imports:
+[15:07:54]                : 	- CommonModule
+[15:07:54]                : 	- NgxsModule
+[15:07:54]                : - exports:
+[15:07:54]                : 	- TaskComponent
+[15:07:54]                : 	- TaskListComponent
+[15:07:54]                : - declarations:
+[15:07:54]                : 	- TaskComponent
+[15:07:54]                : 	- TaskListComponent
+[15:07:54]                : 	- PureTaskListComponent
+[15:07:54] parsing        : /Users/nickt/Desktop/storybook-angular/taskbox/src/app/models/tasks.models.ts
+[15:07:54] found          : Task
+[15:07:54] parsing        : /Users/nickt/Desktop/storybook-angular/taskbox/src/app/state/task.state.ts
+[15:07:54] found          : actions
+[15:07:54] found          : ArchiveTask
+[15:07:54] found          : PinTask
+[15:07:54] found          : AppError
+[15:07:54] found          : defaultTasks
+[15:07:54] found          : TaskStateModel
+[15:07:54] found          : TasksState
+[15:07:54] -------------------
+[15:07:54] Project statistics 
+[15:07:54] - files      : 377
+[15:07:54] - module     : 2
+[15:07:54] - component  : 9
+[15:07:54] - injectable : 1
+[15:07:54] - class      : 3
+[15:07:54] - interface  : 3
+[15:07:54] -------------------
+[15:07:54] Prepare components
+[15:07:54]  ButtonComponent has styleUrls, include them
+[15:07:54]  HeaderComponent has styleUrls, include them
+[15:07:54]  PageComponent has styleUrls, include them
+[15:07:54] Prepare modules
+[15:07:54] Prepare injectables
+[15:07:54] Prepare classes
+[15:07:54] Prepare interfaces
+[15:07:54] Prepare miscellaneous
+[15:07:54] Process documentation coverage report
+[15:07:54] Generating documentation in export format json
+[15:07:54] Documentation generated in ./ in 1.886 seconds
+info @storybook/angular v6.5.7
+info 
+info => Cleaning outputDir: /var/folders/97/48kj7rdx7pv7hf3cl59bxrf80000gn/T/chromatic--50177-NixBNk3jE0qE
+info => Loading presets
+info => Compiling manager..
+info => Compiling preview..
+info Addon-docs: using MDX1
+info => Using implicit CSS loaders
+info => Loading angular-cli config for angular >= 13.0.0
+info => Using angular project with "tsConfig:/Users/nickt/Desktop/storybook-angular/taskbox/.storybook/tsconfig.json"
+WARN Your Storybook startup uses a solution that will not be supported in version 7.0. 
+WARN You must use angular builder to have an explicit configuration on the project used in angular.json
+WARN Read more at:
+WARN - https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#sb-angular-builder)
+WARN - https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#angular13)
+info => Using angular project "taskbox:build" for configuring Storybook
+info => Using default Webpack5 setup
+<s> [webpack.Progress] 0% 
+
+<s> [webpack.Progress] 1% setup before run
+<s> [webpack.Progress] 1% setup before run NodeEnvironmentPlugin
+<s> [webpack.Progress] 1% setup before run
+<s> [webpack.Progress] 2% setup run
+<s> [webpack.Progress] 2% setup run
+<s> [webpack.Progress] 4% setup normal module factory
+<s> [webpack.Progress] 4% setup normal module factory CaseSensitivePathsPlugin
+<s> [webpack.Progress] 4% setup normal module factory
+<s> [webpack.Progress] 5% setup context module factory
+<s> [webpack.Progress] 5% setup context module factory
+<s> [webpack.Progress] 6% setup before compile
+<s> [webpack.Progress] 6% setup before compile angular-compiler
+<s> [webpack.Progress] 6% setup before compile ProgressPlugin
+<s> [webpack.Progress] 6% setup before compile
+<s> [webpack.Progress] 7% setup compile
+<s> [webpack.Progress] 7% setup compile ExternalsPlugin
+<s> [webpack.Progress] 7% setup compile
+<s> [webpack.Progress] 8% setup compilation
+<s> [webpack.Progress] 8% setup compilation CopyPlugin
+<s> [webpack.Progress] 8% setup compilation angular-compiler
+<s> [webpack.Progress] 8% setup compilation mini-css-extract-plugin
+<s> [webpack.Progress] 8% setup compilation ArrayPushCallbackChunkFormatPlugin
+<s> [webpack.Progress] 8% setup compilation JsonpChunkLoadingPlugin
+<s> [webpack.Progress] 8% setup compilation StartupChunkDependenciesPlugin
+<s> [webpack.Progress] 8% setup compilation ImportScriptsChunkLoadingPlugin
+<s> [webpack.Progress] 8% setup compilation FetchCompileWasmPlugin
+<s> [webpack.Progress] 8% setup compilation FetchCompileAsyncWasmPlugin
+<s> [webpack.Progress] 8% setup compilation WorkerPlugin
+<s> [webpack.Progress] 8% setup compilation SplitChunksPlugin
+<s> [webpack.Progress] 8% setup compilation RuntimeChunkPlugin
+<s> [webpack.Progress] 8% setup compilation ResolverCachePlugin
+<s> [webpack.Progress] 8% setup compilation HtmlWebpackPlugin
+<s> [webpack.Progress] 8% setup compilation
+<s> [webpack.Progress] 9% setup compilation
+<s> [webpack.Progress] 9% setup compilation named-chunks-plugin
+<s> [webpack.Progress] 9% setup compilation DedupeModuleResolvePlugin
+<s> [webpack.Progress] 9% setup compilation AnyComponentStyleBudgetChecker
+<s> [webpack.Progress] 9% setup compilation mini-css-extract-plugin
+<s> [webpack.Progress] 9% setup compilation SuppressExtractedTextChunks
+<s> [webpack.Progress] 9% setup compilation DefinePlugin
+<s> [webpack.Progress] 9% setup compilation ProvidePlugin
+<s> [webpack.Progress] 9% setup compilation ProgressPlugin
+<s> [webpack.Progress] 9% setup compilation ChunkPrefetchPreloadPlugin
+<s> [webpack.Progress] 9% setup compilation SourceMapDevToolPlugin
+<s> [webpack.Progress] 9% setup compilation JavascriptModulesPlugin
+<s> [webpack.Progress] 9% setup compilation JsonModulesPlugin
+<s> [webpack.Progress] 9% setup compilation AssetModulesPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation RuntimePlugin
+<s> [webpack.Progress] 9% setup compilation InferAsyncModulesPlugin
+<s> [webpack.Progress] 9% setup compilation DataUriPlugin
+<s> [webpack.Progress] 9% setup compilation FileUriPlugin
+<s> [webpack.Progress] 9% setup compilation CompatibilityPlugin
+<s> [webpack.Progress] 9% setup compilation HarmonyModulesPlugin
+<s> [webpack.Progress] 9% setup compilation AMDPlugin
+<s> [webpack.Progress] 9% setup compilation RequireJsStuffPlugin
+<s> [webpack.Progress] 9% setup compilation CommonJsPlugin
+<s> [webpack.Progress] 9% setup compilation LoaderPlugin
+<s> [webpack.Progress] 9% setup compilation LoaderPlugin
+<s> [webpack.Progress] 9% setup compilation NodeStuffPlugin
+<s> [webpack.Progress] 9% setup compilation APIPlugin
+<s> [webpack.Progress] 9% setup compilation ExportsInfoApiPlugin
+<s> [webpack.Progress] 9% setup compilation WebpackIsIncludedPlugin
+<s> [webpack.Progress] 9% setup compilation ConstPlugin
+<s> [webpack.Progress] 9% setup compilation UseStrictPlugin
+<s> [webpack.Progress] 9% setup compilation RequireIncludePlugin
+<s> [webpack.Progress] 9% setup compilation RequireEnsurePlugin
+<s> [webpack.Progress] 9% setup compilation RequireContextPlugin
+<s> [webpack.Progress] 9% setup compilation ImportPlugin
+<s> [webpack.Progress] 9% setup compilation RequireContextPlugin
+<s> [webpack.Progress] 9% setup compilation SystemPlugin
+<s> [webpack.Progress] 9% setup compilation ImportMetaPlugin
+<s> [webpack.Progress] 9% setup compilation URLPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsFactoryPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsPresetPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsPrinterPlugin
+<s> [webpack.Progress] 9% setup compilation JavascriptMetaInfoPlugin
+<s> [webpack.Progress] 9% setup compilation EnsureChunkConditionsPlugin
+<s> [webpack.Progress] 9% setup compilation RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 9% setup compilation MergeDuplicateChunksPlugin
+<s> [webpack.Progress] 9% setup compilation FlagIncludedChunksPlugin
+<s> [webpack.Progress] 9% setup compilation SideEffectsFlagPlugin
+<s> [webpack.Progress] 9% setup compilation FlagDependencyExportsPlugin
+<s> [webpack.Progress] 9% setup compilation FlagDependencyUsagePlugin
+<s> [webpack.Progress] 9% setup compilation InnerGraphPlugin
+<s> [webpack.Progress] 9% setup compilation MangleExportsPlugin
+<s> [webpack.Progress] 9% setup compilation ModuleConcatenationPlugin
+<s> [webpack.Progress] 9% setup compilation NoEmitOnErrorsPlugin
+<s> [webpack.Progress] 9% setup compilation RealContentHashPlugin
+<s> [webpack.Progress] 9% setup compilation WasmFinalizeExportsPlugin
+<s> [webpack.Progress] 9% setup compilation NamedModuleIdsPlugin
+<s> [webpack.Progress] 9% setup compilation DeterministicChunkIdsPlugin
+<s> [webpack.Progress] 9% setup compilation DefinePlugin
+<s> [webpack.Progress] 9% setup compilation TerserPlugin
+<s> [webpack.Progress] 9% setup compilation TemplatedPathPlugin
+<s> [webpack.Progress] 9% setup compilation RecordIdsPlugin
+<s> [webpack.Progress] 9% setup compilation WarnCaseSensitiveModulesPlugin
+<s> [webpack.Progress] 9% setup compilation IgnoreWarningsPlugin
+<s> [webpack.Progress] 9% setup compilation
+<s> [webpack.Progress] 10% building
+<s> [webpack.Progress] 10% building 0/1 entries 0/0 dependencies 0/0 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/@angular-devkit/build-angular/src/babel/webpack-loader.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/babel-loader/lib/index.js
+<s> [webpack.Progress] 10% building 0/18 entries 3/18 dependencies 0/3 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/mini-css-extract-plugin/dist/loader.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/css-loader/dist/cjs.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/postcss-loader/dist/cjs.js
+<s> [webpack.Progress] 10% building 0/18 entries 13/18 dependencies 0/13 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/@ngtools/webpack/src/ivy/index.js
+<s> [webpack.Progress] 10% building 0/18 entries 15/19 dependencies 0/15 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/@storybook/source-loader/dist/cjs/index.js
+<s> [webpack.Progress] 10% building 0/18 entries 88/145 dependencies 0/51 modules
+<s> [webpack.Progress] 13% building 1/18 entries 112/146 dependencies 2/70 modules
+<s> [webpack.Progress] 16% building 2/18 entries 215/259 dependencies 13/119 modules
+<s> [webpack.Progress] 19% building 3/18 entries 799/867 dependencies 80/272 modules
+<s> [webpack.Progress] 19% building 3/18 entries 1200/1280 dependencies 151/375 modules
+<s> [webpack.Progress] 22% building 4/18 entries 1205/1280 dependencies 186/375 modules
+<s> [webpack.Progress] 22% building 4/18 entries 1695/2494 dependencies 221/500 modules
+<s> [webpack.Progress] 22% building 4/18 entries 2700/2925 dependencies 279/832 modules
+<s> [webpack.Progress] 22% building 4/18 entries 4300/4386 dependencies 466/1015 modules
+<s> [webpack.Progress] 22% building 4/18 entries 5095/5200 dependencies 918/1206 modules
+<s> [webpack.Progress] 24% building 4/18 entries 6005/6100 dependencies 1277/1576 modules
+<s> [webpack.Progress] 27% building 4/18 entries 6766/6773 dependencies 1600/1697 modules
+<s> [webpack.Progress] 27% building 5/18 entries 6766/6773 dependencies 1609/1697 modules
+<s> [webpack.Progress] 28% building 6/18 entries 6766/6773 dependencies 1610/1697 modules
+<s> [webpack.Progress] 31% building 7/18 entries 6766/6773 dependencies 1610/1697 modules
+<s> [webpack.Progress] 34% building 8/18 entries 6766/6773 dependencies 1610/1697 modules
+<s> [webpack.Progress] 37% building 9/18 entries 6766/6773 dependencies 1610/1697 modules
+<s> [webpack.Progress] 40% building 10/18 entries 6766/6773 dependencies 1610/1697 modules
+<s> [webpack.Progress] 43% building 11/18 entries 6766/6773 dependencies 1610/1697 modules
+<s> [webpack.Progress] 46% building 12/18 entries 6766/6773 dependencies 1610/1697 modules
+<s> [webpack.Progress] 49% building 13/18 entries 6766/6773 dependencies 1610/1697 modules
+<s> [webpack.Progress] 52% building 14/18 entries 6843/6855 dependencies 1649/1716 modules
+<s> [webpack.Progress] 55% building 15/18 entries 6933/6935 dependencies 1699/1755 modules
+<s> [webpack.Progress] 58% building 16/18 entries 6933/6935 dependencies 1699/1755 modules
+<s> [webpack.Progress] 61% building 17/18 entries 6946/6947 dependencies 1726/1757 modules
+<s> [webpack.Progress] 64% building 18/18 entries 6950/6950 dependencies 1758/1758 modules
+<s> [webpack.Progress] 65% building
+<s> [webpack.Progress] 69% building finish
+<s> [webpack.Progress] 69% building finish
+<s> [webpack.Progress] 70% sealing finish module graph
+<s> [webpack.Progress] 70% sealing finish module graph angular-compiler
+<s> [webpack.Progress] 70% sealing finish module graph ResolverCachePlugin
+<s> [webpack.Progress] 70% sealing finish module graph InferAsyncModulesPlugin
+<s> [webpack.Progress] 70% sealing finish module graph FlagDependencyExportsPlugin
+<s> [webpack.Progress] 70% sealing finish module graph InnerGraphPlugin
+<s> [webpack.Progress] 70% sealing finish module graph WasmFinalizeExportsPlugin
+<s> [webpack.Progress] 70% sealing finish module graph
+<s> [webpack.Progress] 70% sealing plugins
+<s> [webpack.Progress] 70% sealing plugins WarnCaseSensitiveModulesPlugin
+<s> [webpack.Progress] 70% sealing plugins
+<s> [webpack.Progress] 71% sealing dependencies optimization
+<s> [webpack.Progress] 71% sealing dependencies optimization SideEffectsFlagPlugin
+<s> [webpack.Progress] 71% sealing dependencies optimization FlagDependencyUsagePlugin
+<s> [webpack.Progress] 71% sealing dependencies optimization
+<s> [webpack.Progress] 71% sealing after dependencies optimization
+<s> [webpack.Progress] 71% sealing after dependencies optimization
+<s> [webpack.Progress] 72% sealing chunk graph
+<s> [webpack.Progress] 72% sealing chunk graph
+<s> [webpack.Progress] 73% sealing after chunk graph
+<s> [webpack.Progress] 73% sealing after chunk graph
+<s> [webpack.Progress] 73% sealing optimizing
+<s> [webpack.Progress] 73% sealing optimizing
+<s> [webpack.Progress] 74% sealing module optimization
+<s> [webpack.Progress] 74% sealing module optimization
+<s> [webpack.Progress] 75% sealing after module optimization
+<s> [webpack.Progress] 75% sealing after module optimization
+<s> [webpack.Progress] 75% sealing chunk optimization
+<s> [webpack.Progress] 75% sealing chunk optimization EnsureChunkConditionsPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization MergeDuplicateChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization SplitChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization
+<s> [webpack.Progress] 76% sealing after chunk optimization
+<s> [webpack.Progress] 76% sealing after chunk optimization
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization PersistentChildCompilerSingletonPlugin
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing after module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing after module and chunk tree optimization
+<s> [webpack.Progress] 78% sealing chunk modules optimization
+<s> [webpack.Progress] 78% sealing chunk modules optimization ModuleConcatenationPlugin
+<s> [webpack.Progress] 78% sealing chunk modules optimization
+<s> [webpack.Progress] 78% sealing after chunk modules optimization
+<s> [webpack.Progress] 78% sealing after chunk modules optimization
+<s> [webpack.Progress] 79% sealing module reviving
+<s> [webpack.Progress] 79% sealing module reviving RecordIdsPlugin
+<s> [webpack.Progress] 79% sealing module reviving
+<s> [webpack.Progress] 80% sealing before module ids
+<s> [webpack.Progress] 80% sealing before module ids
+<s> [webpack.Progress] 80% sealing module ids
+<s> [webpack.Progress] 80% sealing module ids NamedModuleIdsPlugin
+<s> [webpack.Progress] 80% sealing module ids
+<s> [webpack.Progress] 81% sealing module id optimization
+<s> [webpack.Progress] 81% sealing module id optimization
+<s> [webpack.Progress] 82% sealing module id optimization
+<s> [webpack.Progress] 82% sealing module id optimization
+<s> [webpack.Progress] 82% sealing chunk reviving
+<s> [webpack.Progress] 82% sealing chunk reviving RecordIdsPlugin
+<s> [webpack.Progress] 82% sealing chunk reviving
+<s> [webpack.Progress] 83% sealing before chunk ids
+<s> [webpack.Progress] 83% sealing before chunk ids
+<s> [webpack.Progress] 84% sealing chunk ids
+<s> [webpack.Progress] 84% sealing chunk ids DeterministicChunkIdsPlugin
+<s> [webpack.Progress] 84% sealing chunk ids
+<s> [webpack.Progress] 84% sealing chunk id optimization
+<s> [webpack.Progress] 84% sealing chunk id optimization FlagIncludedChunksPlugin
+<s> [webpack.Progress] 84% sealing chunk id optimization
+<s> [webpack.Progress] 85% sealing after chunk id optimization
+<s> [webpack.Progress] 85% sealing after chunk id optimization
+<s> [webpack.Progress] 86% sealing record modules
+<s> [webpack.Progress] 86% sealing record modules RecordIdsPlugin
+<s> [webpack.Progress] 86% sealing record modules
+<s> [webpack.Progress] 86% sealing record chunks
+<s> [webpack.Progress] 86% sealing record chunks RecordIdsPlugin
+<s> [webpack.Progress] 86% sealing record chunks
+<s> [webpack.Progress] 87% sealing module hashing
+<s> [webpack.Progress] 87% sealing module hashing
+<s> [webpack.Progress] 87% sealing code generation
+<s> [webpack.Progress] 87% sealing code generation
+<s> [webpack.Progress] 88% sealing runtime requirements
+<s> [webpack.Progress] 88% sealing runtime requirements
+<s> [webpack.Progress] 89% sealing hashing
+<s> [webpack.Progress] 89% sealing hashing
+<s> [webpack.Progress] 89% sealing after hashing
+<s> [webpack.Progress] 89% sealing after hashing
+<s> [webpack.Progress] 90% sealing record hash
+<s> [webpack.Progress] 90% sealing record hash
+<s> [webpack.Progress] 91% sealing module assets processing
+<s> [webpack.Progress] 91% sealing module assets processing
+<s> [webpack.Progress] 91% sealing chunk assets processing
+<s> [webpack.Progress] 91% sealing chunk assets processing
+<s> [webpack.Progress] 92% sealing asset processing
+<s> [webpack.Progress] 92% sealing asset processing copy-webpack-plugin
+<s> [webpack.Progress] 92% sealing asset processing PersistentChildCompilerSingletonPlugin
+<s> [webpack.Progress] 92% sealing asset processing TerserPlugin
+info => Manager built (14 s)
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.css generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.css generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.c2f0bc07.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.c2f0bc07.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.35ee2a8a.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.35ee2a8a.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 747.6b916a5a.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 747.6b916a5a.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 366.fbf1f591.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 366.fbf1f591.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 565.808f979e.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 565.808f979e.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 239.3a13684a.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 239.3a13684a.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 471.b895c358.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 471.b895c358.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 345.793cee98.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 345.793cee98.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 39.8d0850df.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 39.8d0850df.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 996.32ccb853.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 996.32ccb853.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 225.ff116299.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 225.ff116299.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 291.5db95513.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 291.5db95513.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 579.fb00f354.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 579.fb00f354.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 579.fb00f354.iframe.bundle.js attach SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 579.fb00f354.iframe.bundle.js attached SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.99ae40c4.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.99ae40c4.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.b5c9bde3.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.b5c9bde3.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 747.2e592bfe.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 747.2e592bfe.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 345.b8f4061f.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 345.b8f4061f.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 996.66e30629.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 996.66e30629.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 225.adf1b44b.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 225.adf1b44b.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 366.f7514a71.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 366.f7514a71.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 565.c9971965.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 565.c9971965.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 239.43bc22d7.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 239.43bc22d7.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 471.8d9110a3.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 471.8d9110a3.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 39.2ed10874.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 39.2ed10874.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 291.4044512f.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 291.4044512f.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing AnyComponentStyleBudgetChecker
+<s> [webpack.Progress] 92% sealing asset processing
+<s> [webpack.Progress] 93% sealing after asset optimization
+<s> [webpack.Progress] 93% sealing after asset optimization
+<s> [webpack.Progress] 93% sealing recording
+<s> [webpack.Progress] 93% sealing recording
+<s> [webpack.Progress] 94% sealing after seal
+<s> [webpack.Progress] 94% sealing after seal
+<s> [webpack.Progress] 95% emitting emit
+<s> [webpack.Progress] 95% emitting emit
+<s> [webpack.Progress] 98% emitting after emit
+<s> [webpack.Progress] 98% emitting after emit SizeLimitsPlugin
+<s> [webpack.Progress] 98% emitting after emit
+<s> [webpack.Progress] 99% done plugins
+<s> [webpack.Progress] 99% done plugins CaseSensitivePathsPlugin
+<s> [webpack.Progress] 99% done plugins
+<s> [webpack.Progress] 99% 
+
+<s> [webpack.Progress] 99% cache store build dependencies
+<s> [webpack.Progress] 99% cache store build dependencies
+<s> [webpack.Progress] 99% cache begin idle
+<s> [webpack.Progress] 99% cache begin idle
+<s> [webpack.Progress] 100% 
+
+info => Preview built (18 s)
+WARN /Users/nickt/Desktop/storybook-angular/taskbox/src/app/app.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/nickt/Desktop/storybook-angular/taskbox/src/app/app.module.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/nickt/Desktop/storybook-angular/taskbox/src/app/components/inbox-screen.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/nickt/Desktop/storybook-angular/taskbox/src/environments/environment.prod.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/nickt/Desktop/storybook-angular/taskbox/src/environments/environment.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/nickt/Desktop/storybook-angular/taskbox/src/main.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/nickt/Desktop/storybook-angular/taskbox/src/stories/Button.stories.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/nickt/Desktop/storybook-angular/taskbox/src/stories/Header.stories.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/nickt/Desktop/storybook-angular/taskbox/src/stories/Page.stories.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/nickt/Desktop/storybook-angular/taskbox/src/stories/User.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/nickt/Desktop/storybook-angular/taskbox/src/stories/button.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/nickt/Desktop/storybook-angular/taskbox/src/stories/header.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/nickt/Desktop/storybook-angular/taskbox/src/stories/page.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+WARN This can impact web performance.
+WARN Assets: 
+WARN   366.f7514a71.iframe.bundle.js (601 KiB)
+WARN   565.c9971965.iframe.bundle.js (681 KiB)
+WARN   471.8d9110a3.iframe.bundle.js (791 KiB)
+WARN   579.dfcbefdb.iframe.bundle.js (3.3 MiB)
+WARN entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+WARN Entrypoints:
+WARN   main (3.42 MiB)
+WARN       runtime~main.b5c9bde3.iframe.bundle.js
+WARN       579.dfcbefdb.iframe.bundle.js
+WARN       main.css
+WARN       main.99ae40c4.iframe.bundle.js
+WARN 
+<s> [webpack.Progress] 99% cache shutdown
+<s> [webpack.Progress] 99% cache shutdown
+<s> [webpack.Progress] 100% 
+
+info => Output directory: /var/folders/97/48kj7rdx7pv7hf3cl59bxrf80000gn/T/chromatic--50177-NixBNk3jE0qE
